@@ -10,3 +10,24 @@ It includes:
 No source code is included — the repository focuses entirely on documentation and visual materials for the lab.
 
 ## 📁 Repository Structure  
+```
+/assets
+├── images/ → Screenshots, diagrams, ERD pictures
+└── pdfs/ → Lab sheets, notes, documentation
+README.md
+```
+
+## 🎯 Purpose  
+The goal of this repository is to:
+- Organize all Lab 1 materials in one place  
+- Make it easy to access and review the PDFs and screenshots  
+- Keep a clear structure for academic documentation
+
+## 🧑‍💻 Author  
+**Mohanad “Honda” Tarek**  
+ITI – 9 Month Program Trainee  
+Module: Database – Lab 1
+
+---
+
+> ✔️ Feel free to download or view the files directly from the repository.
